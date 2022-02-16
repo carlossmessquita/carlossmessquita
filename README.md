@@ -2,7 +2,7 @@
 ## Fortaleza, CE, Brasil 🟢🟡
 
 - 🧠 Graduando em Análise e Desenvolvimento de Sistemas;
-- 💻 Focado em desenvolvimento Backend e Data Science;
+- 💻 Focado em Desenvolvimento Web Back-End;
 - 📧 Contato: carlossmessquita@gmail.com;
 - 📚 Apaixonado por leitura;
 - 🥋 Praticante de Jiu-Jitsu;
@@ -13,6 +13,7 @@
     <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" />
     <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
     <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+    <img align="center"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
 </div>
 <br>
 <div> 
