@@ -1,10 +1,9 @@
 # Carlos Mesquita
 ## Fortaleza, CE, Brasil 🟢🟡
 
-- 🧠 Graduando em Análise e Desenvolvimento de Sistemas e Ciências Econômicas;
-- 💻 Focado em Desenvolvimento Web Back End e Machine Learning com Python;
+- 🧠 Graduando em Análise e Desenvolvimento de Sistemas;
+- 💻 Focado em Desenvolvimento Web com enfâse no backend com Python3 e Django;
 - 📧 Contato: carlossmessquita@gmail.com;
-
 
 <br>
 <div> 
