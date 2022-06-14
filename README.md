@@ -2,7 +2,9 @@
 ## Fortaleza, CE, Brasil 🟢🟡
 
 - 🧠 Graduando em Análise e Desenvolvimento de Sistemas;
-- 💻 Focado em Desenvolvimento Web com enfâse no backend com Python3 e Django;
+- 💻 Focado em Desenvolvimento Web com ênfase no Backend;
+- 📚 Atualmente estudando PHP;
+- 🐍 Pythonista de coração;
 - 📧 Contato: carlossmessquita@gmail.com;
 
 <br>
