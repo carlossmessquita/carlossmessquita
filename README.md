@@ -1,7 +1,7 @@
 # Carlos Mesquita
 ## Fortaleza, CE, Brasil 🟢🟡
 
-- 🧠 Grad. Analista de Sistemas | MBA em Gestão de Projetos | Esp. Product Management & Data Science;
+- 🧑‍🎓 Grad. Analista de Sistemas | MBA em Gestão de Projetos | Esp. Product Management & Data Science;
 - 💻 Desenvolvimento com Python para Data Science, AI e Machine Learning;
 - 📧 Contato: carlossmessquita@gmail.com;
 
